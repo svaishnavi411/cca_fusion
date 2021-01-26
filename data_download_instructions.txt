@@ -1,0 +1,1 @@
+To download the data for the experiments in this repository, please download data from https://uofi.box.com/s/pvhs03t8u9wfjs6j31c6wbvec7237wfc and unzip to this directory (0_data/)
