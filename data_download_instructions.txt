@@ -1,1 +1,1 @@
-To download the breast cancer data features used in the experiments, please download data from  https://uofi.box.com/s/pvhs03t8u9wfjs6j31c6wbvec7237wfc and unzip to 0_data/ and 0_simulated_data/ respectively.
+To download the breast cancer data features used in the experiments, please download data from  https://uofi.box.com/s/pvhs03t8u9wfjs6j31c6wbvec7237wfc and unzip to data/simulated and data/brca respectively.
