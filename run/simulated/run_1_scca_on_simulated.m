@@ -1,6 +1,6 @@
 %% This code is to run SCCA on the saved simulated data
 
-base_dir = '/mnt/data0-nfs/vs5/repos/cca_fusion_cancer/';
+base_dir = '/mnt/data0-nfs/vs5/repos/cca_fusion/';
 addpath(strcat(base_dir, 'code/k_cca_methods/'))
 addpath(strcat(base_dir, 'code/cca_methods/scca/'))
 addpath(strcat(base_dir, 'code/deflation_method/'))

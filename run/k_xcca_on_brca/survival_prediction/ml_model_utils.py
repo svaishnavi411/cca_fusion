@@ -46,9 +46,9 @@ def load_clinical(clinical_df, patients):
 
     return binary, events, times, labels
 
-def get_patients_info(clinical_dir, data_loc, num_genes, fold_num):
+def get_patients_info(data_loc, num_genes, fold_num):
 
-    data_file = glob(clinical_dir + 'brca' + '/*clinical_patient*')[0]
+    data_file = glob(data_loc + '/*clinical_patient*')[0]
 
     clinical_df = pd.read_csv(data_file, sep='\t')
     clinical_df = clinical_df.set_index('bcr_patient_barcode')

@@ -1,6 +1,6 @@
 %% This code is to generate and save simulated data
 
-base_dir = '/mnt/data0-nfs/vs5/repos/cca_fusion_cancer/';
+base_dir = '/mnt/data0-nfs/vs5/repos/cca_fusion/';
 addpath(strcat(base_dir, 'code/simulations/'))
 
 save_file_prefix = strcat(base_dir, 'data/simulated_data/');
