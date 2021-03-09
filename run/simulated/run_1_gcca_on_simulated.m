@@ -1,4 +1,4 @@
-;function run_1_gcca_on_simulated(mode)
+function run_1_gcca_on_simulated(mode)
 
 %% This code is to run GCCA on the saved simulated data
 
