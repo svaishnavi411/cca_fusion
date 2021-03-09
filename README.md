@@ -57,7 +57,7 @@ Code location: ``run/1_xcca_on_brca/``
 
 - Run ``run_1_gcca_on_brca.m`` in MATLAB. The code requires an input parameter indicated if the graph used in GCCA is based on prior knowledge ``run_1_gcca_on_brca('prior1')`` or inferred from data ``run_1_gcca_on_brca('no-prior')``. 
 
-##### Summarizing simulation results
+##### Summarizing results
 - Run the Jupyter notebook ``summarize_results_1_xcca_brca.ipynb`` after completing the previous two steps.
 
 ----------------------------
@@ -74,7 +74,7 @@ Code location: ``run/k_xcca_on_brca/``
 
 - Run ``run_k_gcca_on_brca.m`` in MATLAB. The code requires an input parameter indicated if the graph used in GCCA is based on prior knowledge ``run_k_gcca_on_brca('prior1')`` or inferred from data ``run_k_gcca_on_brca('no-prior')``. 
 
-##### Summarizing simulation results
+##### Summarizing results
 - Run the Jupyter notebook ``summarize_results_k_xcca_brca.ipynb`` after completing the previous two steps.
 
 ---------------
