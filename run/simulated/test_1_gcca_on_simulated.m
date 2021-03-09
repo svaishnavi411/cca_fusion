@@ -1,7 +1,7 @@
 function test_1_gcca_on_simulated(mode)
 %% This code is to run GCCA on the saved simulated data
 
-base_dir = '/mnt/data0-nfs/vs5/repos/cca_fusion_cancer/';
+base_dir = '/mnt/data0-nfs/vs5/repos/cca_fusion/';
 addpath(strcat(base_dir, 'code/cca_methods/'))
 addpath(strcat(base_dir, 'code/simulations/'))
 addpath(strcat(base_dir, 'code/k_cca_methods/'))
