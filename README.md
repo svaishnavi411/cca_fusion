@@ -1,6 +1,6 @@
 # cca_cancer
 
-Code accompanying our ISBI 2021 paper "Multimodal Fusion using Sparse CCA \\for Breast Cancer Survival Prediction" by Vaishnavi Subramanian,  Tanveer Syeda-Mahmood, Minh N. Do
+Code accompanying our ISBI 2021 paper "Multimodal Fusion using Sparse CCA for Breast Cancer Survival Prediction" https://arxiv.org/abs/2103.05432 by Vaishnavi Subramanian,  Tanveer Syeda-Mahmood, Minh N. Do
 
 ## Code
 
